@@ -1,2 +1,14 @@
-/env
+/.idea
 /.vscode
+# Archivos pyc y cachés de Python
+*.pyc
+__pycache__/
+*.pyo
+*.pyd
+*.pyc
+
+# Archivos del entorno virtual (si estás usando uno local)
+venv/
+/env
+.env
+.env.*
